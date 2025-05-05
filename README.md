@@ -85,5 +85,4 @@ This project provides valuable insights into political bias and interaction patt
 - **Incorporate More Metrics**: Additional metrics like tweet frequency, sentiment analysis, or geographic location could further enrich the analysis.
 - **Real-World Application**: The model could be applied to real-world social networks or news aggregator platforms to study political polarization and echo chambers.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## SEE REPORT ATTACHED ABOVE FOR COMPLETE INFORMATION OF PROJECT
